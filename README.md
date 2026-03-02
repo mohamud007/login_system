@@ -97,7 +97,7 @@ INSERT INTO users (name, email, password, role) VALUES
 Update `src/main/resources/application.properties` with your database details:
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/login_system
+spring.datasource.url=jdbc:mysql://localhost:3306/student_db
 spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
 spring.jpa.hibernate.ddl-auto=update
@@ -113,8 +113,8 @@ server.port=8080
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-login-system.git
-cd student-login-system
+git clone https://github.com/your-username/login_system.git
+cd login_system
 ```
 
 ### 2️⃣ Open in IDE
