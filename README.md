@@ -8,7 +8,15 @@ A simple Spring Boot web application that provides login functionality for **Stu
 
 **Home Page**
 
-![Home page screenshot]()
+![Home page screenshot](https://github.com/mohamud007/login_system/blob/main/Screenshot%202026-03-02%20103211.png)
+
+**Admin Login**
+
+![admin login]()
+
+**Studetn Login**
+
+![astudent login]()
 
 ## Features
 
