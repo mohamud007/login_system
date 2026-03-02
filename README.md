@@ -12,7 +12,7 @@ A simple Spring Boot web application that provides login functionality for **Stu
 
 **Admin Login**
 
-![admin login]()
+![admin login](https://github.com/mohamud007/login_system/blob/main/Screenshot%202026-03-02%20103240.png)
 
 **Studetn Login**
 
